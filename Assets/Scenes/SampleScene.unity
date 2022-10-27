@@ -125,6 +125,7 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &43621056
 GameObject:
   m_ObjectHideFlags: 0
@@ -321,6 +322,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 051ba6e (added capsule)
 =======
 >>>>>>> parent of 051ba6e (added capsule)
 =======
